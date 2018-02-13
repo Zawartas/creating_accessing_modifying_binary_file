@@ -4,6 +4,7 @@ Two programs. One for creating a binary database out of a text file. Second that
 Second part for:
 https://github.com/Zawartas/Reading-and-writing-txtfiles-C-style
 
-And here is a post about one of those files:
+And here are posts about those files:
 
 https://simontycoon.wordpress.com/2018/01/18/382/
+https://simontycoon.wordpress.com/2018/01/25/handling-binary-files/
