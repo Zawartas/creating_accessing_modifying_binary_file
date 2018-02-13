@@ -74,13 +74,13 @@ if (found == 0)
 r = 10029;
 found = 0;
 rewind(input);
-POS = ftell(input);
 fread(&s, structSize, 1, input);
+POS = ftell(input);
 do {
     if (s.indexID == r) {found = 1; break;}
     else {
-        POS = ftell(input);
         fread(&s, structSize, 1, input);
+        POS = ftell(input);
         }
     } while (!feof(input));
 if (found == 0)
