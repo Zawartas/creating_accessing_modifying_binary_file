@@ -7,4 +7,5 @@ https://github.com/Zawartas/Reading-and-writing-txtfiles-C-style
 And here are posts about those files:
 
 https://simontycoon.wordpress.com/2018/01/18/382/
+
 https://simontycoon.wordpress.com/2018/01/25/handling-binary-files/
